@@ -53,8 +53,8 @@ function Navbar(props) {
             <div className='flex justify-between items-center w-11/12 max-w-[1160px] py-4 mx-auto'>
 
                 <Link to="/">
-            <img src={logo} alt="logo" height={32} width={160} loading='lazy' />
-         </Link>
+                    <img src={logo} alt="logo" height={32} width={160} loading='lazy' />
+                </Link>
 
                 <nav>
                     <ul className='text-richblack-25  flex gap-x-6'>
